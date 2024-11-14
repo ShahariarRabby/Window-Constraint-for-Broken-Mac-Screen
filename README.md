@@ -45,7 +45,7 @@ This Hammerspoon configuration script automatically adjusts the size and positio
 
 2. **Clone or Download this Repository**:
    ```bash
-   git clone https://github.com/yourusername/Hammerspoon-Window-Confinement.git
+   git clone https://github.com/shahariarrabby/Hammerspoon-Window-Confinement.git
    ```
    Or download it as a ZIP and extract it.
 
